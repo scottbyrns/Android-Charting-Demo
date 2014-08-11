@@ -3,7 +3,6 @@ Android-Charting-Demo
 
 [Download the APK](https://github.com/scottbyrns/Android-Charting-Demo/blob/master/app/app-release.apk?raw=true)
 
-![alt text](https://raw.githubusercontent.com/scottbyrns/Android-Charting-Demo/master/iOS%20Screenshot.png "Original Screenshot")
 
 Delivered Functionality: 
 
@@ -18,6 +17,7 @@ Delivered Functionality:
 * A user can change the month represented by the daily minutes watering graph. 
 * A user can change the month represented by the daily water use graph. 
 
+![alt text](https://raw.githubusercontent.com/scottbyrns/Android-Charting-Demo/master/iOS%20Screenshot.png "Original Screenshot")
 
 Notes:
 
