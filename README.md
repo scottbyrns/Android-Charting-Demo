@@ -8,7 +8,7 @@ I completed the work in 3 and 1/2 hours.
 [Download the APK](https://github.com/scottbyrns/Android-Charting-Demo/blob/master/app/app-release.apk?raw=true)
 
 
-Delivered Functionality: 
+#####Delivered Functionality:
 
 * A user can see a bar graph of values within a range distributed across a calendar month. 
 * A user can see 14 days at one time. 
@@ -23,7 +23,7 @@ Delivered Functionality:
 
 ![alt text](https://raw.githubusercontent.com/scottbyrns/Android-Charting-Demo/master/iOS%20Screenshot.png "Original Screenshot")
 
-Notes:
+#####Notes:
 
 * Data is randomly generated for the Data Adapter as a value between 0 and 100.
 * The data set is regenerated when changing months. 
