@@ -1,6 +1,10 @@
 Android-Charting-Demo
 =====================
 
+This demo project was built for an interview process.
+The objective was to show that I could build a user interface from a screenshot and a breif description of requirements.
+I completed the work in 3 and 1/2 hours.
+
 [Download the APK](https://github.com/scottbyrns/Android-Charting-Demo/blob/master/app/app-release.apk?raw=true)
 
 
