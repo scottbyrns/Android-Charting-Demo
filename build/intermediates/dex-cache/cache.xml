@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/Users/scott/Documents/RachioGraph/shinobichartsandroidlibrary/build/intermediates/pre-dexed/debug/shinobicharts-android-trial-1.5.1-76f393c51a292241f653cd4bf56fa3fee388b630.jar"
+        jar="/Users/scott/Documents/RachioGraph/shinobichartsandroidlibrary/libs/shinobicharts-android-trial-1.5.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="dd57b892988062471dd9d6cbb5a426f190fe324b"/>
+    <item
+        dex="/Users/scott/Documents/RachioGraph/app/build/intermediates/pre-dexed/debug/classes-213962f6629cffd5a15624facaea3d53418cda40.jar"
+        jar="/Users/scott/Documents/RachioGraph/app/build/intermediates/exploded-aar/RachioGraph/shinobichartsandroidlibrary/unspecified/classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="0691ca71d1473bb2314413ee17911a3e83fb4de5"/>
+    <item
+        dex="/Users/scott/Documents/RachioGraph/app/build/intermediates/pre-dexed/debug/shinobicharts-android-trial-1.5.1-d8b7a6805af15d023d8f3c7d38f9070623662856.jar"
+        jar="/Users/scott/Documents/RachioGraph/app/build/intermediates/exploded-aar/RachioGraph/shinobichartsandroidlibrary/unspecified/libs/shinobicharts-android-trial-1.5.1.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="dd57b892988062471dd9d6cbb5a426f190fe324b"/>
+
+</pre-dex-items>

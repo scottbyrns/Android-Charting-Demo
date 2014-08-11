@@ -1,0 +1,24 @@
+apply plugin: 'android-library'
+
+android {
+    compileSdkVersion 19
+    buildToolsVersion '20.0.0'
+    defaultConfig {
+        applicationId 'com.shinobicontrols.charts'
+        minSdkVersion 9
+        targetSdkVersion 16
+    }
+    buildTypes {
+        release {
+            debuggable true
+            runProguard false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    compile files('libs/shinobicharts-android-trial-1.5.1.jar')
+}

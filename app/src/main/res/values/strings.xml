@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Reports</string>
+    <string name="action_settings">Settings</string>
+    <string name="daily_minutes">DAILY MINUTES</string>
+    <string name="daily_water_use">DAILY WATER USE</string>
+
+
+</resources>
