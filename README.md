@@ -1,6 +1,8 @@
 Android-Charting-Demo
 =====================
 
+[Download the APK](https://github.com/scottbyrns/Android-Charting-Demo/blob/master/app/app-release.apk?raw=true)
+
 ![alt text](https://raw.githubusercontent.com/scottbyrns/Android-Charting-Demo/master/iOS%20Screenshot.png "Original Screenshot")
 
 Delivered Functionality: 
